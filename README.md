@@ -1,1 +1,1 @@
-# G7-public
+# G7-public repository
